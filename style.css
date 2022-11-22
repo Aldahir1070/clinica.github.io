@@ -1,0 +1,39 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+header{
+height: 75px;
+color: black;
+font-size: 30px;
+font-weight: lighter;
+
+}
+.contenedor{
+background-color:whitesmoke;
+width: 100%;
+height: 300px;
+
+}
+
+.contenedor1:hover{
+   background-color: #FF9;
+   width: 100%;
+}
+.titulo{
+    font-size: 30px;
+}
+
+.elementos{
+    margin-left: 200px;
+}
+
+.contenedor:hover{
+background-color: #FF9;
+width: 100%;
+height: 300px;
+
+}
+
